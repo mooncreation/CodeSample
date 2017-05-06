@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+.errormessages
+{
+	color:red;
+	margin-bottom: 10px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+.resultrpm
+{
+	padding-left: 20px;
+    padding-top: 10px;
+    text-align: center;
+	border: 2px solid #ccc;	
+}
+.resultrpm h2 span
+{
+	color:#98C87B;
+}
+.resultrpm h2
+{
+line-height: 19px;
+}
+.selectbox
+{
+	padding: 4px 6px;
+    width: 167px;	
+}
